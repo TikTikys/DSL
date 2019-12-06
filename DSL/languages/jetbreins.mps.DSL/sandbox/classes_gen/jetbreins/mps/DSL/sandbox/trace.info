@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081855346303:jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root nodeRef="r:bab7b500-c67a-440b-bb10-96a0e4940b24(jetbreins.mps.DSL.sandbox)/5792181515959143197">
+    <file name="ClimatConstrolSystem.java">
+      <node id="5792181515959143197" at="10,0,11,0" concept="2" trace="resultCode" />
+      <node id="5792181515959143197" at="12,0,13,0" concept="2" trace="includeAndDefineCommands" />
+      <node id="5792181515959143197" at="13,0,14,0" concept="2" trace="setupPart" />
+      <node id="5792181515959143197" at="14,0,15,0" concept="2" trace="loopPart" />
+      <node id="5792181515959143197" at="16,42,17,61" concept="4" />
+      <node id="7742801584768038837" at="17,61,18,71" concept="1" />
+      <node id="7742801584768043985" at="18,71,19,76" concept="1" />
+      <node id="7742801584768124525" at="19,76,20,73" concept="1" />
+      <node id="7742801584768124557" at="20,73,21,68" concept="1" />
+      <node id="7742801584768141220" at="21,68,22,69" concept="1" />
+      <node id="5792181515959143197" at="22,69,23,59" concept="1" />
+      <node id="5792181515959143197" at="26,101,27,20" concept="5" />
+      <node id="5792181515959143197" at="27,20,28,48" concept="1" />
+      <node id="5792181515959143197" at="31,112,32,32" concept="1" />
+      <node id="5792181515959143197" at="34,25,35,128" concept="1" />
+      <node id="5792181515959143197" at="35,128,36,69" concept="1" />
+      <node id="5792181515959143197" at="36,69,37,228" concept="1" />
+      <node id="5792181515959143197" at="37,228,38,14" concept="0" />
+      <node id="5792181515959143197" at="39,19,40,14" concept="0" />
+      <node id="5792181515959143197" at="41,22,42,14" concept="0" />
+      <node id="5792181515959143197" at="43,22,44,14" concept="0" />
+      <node id="5792181515959143197" at="45,5,46,174" concept="1" />
+      <node id="5792181515959143197" at="46,174,47,74" concept="1" />
+      <node id="5792181515959143197" at="47,74,48,44" concept="1" />
+      <node id="5792181515959143197" at="48,44,49,42" concept="1" />
+      <node id="5792181515959143197" at="54,18,55,148" concept="1" />
+      <node id="5792181515959143197" at="55,148,56,150" concept="1" />
+      <node id="5792181515959143197" at="56,150,57,192" concept="1" />
+      <node id="5792181515959143197" at="57,192,58,14" concept="0" />
+      <node id="5792181515959143197" at="59,23,60,98" concept="1" />
+      <node id="5792181515959143197" at="60,98,61,106" concept="1" />
+      <node id="5792181515959143197" at="61,106,62,99" concept="1" />
+      <node id="5792181515959143197" at="62,99,63,14" concept="0" />
+      <node id="5792181515959143197" at="64,21,65,14" concept="0" />
+      <node id="5792181515959143197" at="69,58,70,52" concept="4" />
+      <node id="5792181515959143197" at="70,52,71,33" concept="1" />
+      <node id="5792181515959143197" at="72,9,73,57" concept="4" />
+      <node id="5792181515959143197" at="73,57,74,35" concept="1" />
+      <node id="5792181515959143197" at="74,35,75,25" concept="1" />
+      <node id="5792181515959143197" at="76,29,77,26" concept="1" />
+      <node id="5792181515959143197" at="26,0,30,0" concept="3" trace="generateCodeToActuator#(Ljava/lang/String;DLjava/lang/String;Ljava/lang/String;)V" />
+      <node id="5792181515959143197" at="71,33,78,5" concept="8" />
+      <node id="5792181515959143197" at="16,0,25,0" concept="6" trace="main#([Ljava/lang/String;)V" />
+      <node id="5792181515959143197" at="69,0,80,0" concept="3" trace="writeCodeToFile#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="5792181515959143197" at="32,32,45,5" concept="7" />
+      <node id="5792181515959143197" at="52,51,66,5" concept="7" />
+      <node id="5792181515959143197" at="52,0,68,0" concept="3" trace="addNetworkCode#(Ljava/lang/String;)V" />
+      <node id="5792181515959143197" at="31,0,51,0" concept="3" trace="generareCodeToSensor#(Ljava/lang/String;DLjava/lang/String;Ljava/lang/String;I)V" />
+      <scope id="5792181515959143197" at="39,19,40,14" />
+      <scope id="5792181515959143197" at="41,22,42,14" />
+      <scope id="5792181515959143197" at="43,22,44,14" />
+      <scope id="5792181515959143197" at="64,21,65,14" />
+      <scope id="5792181515959143197" at="76,0,77,26">
+        <var name="e" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="76,29,77,26" />
+      <scope id="5792181515959143197" at="26,101,28,48" />
+      <scope id="5792181515959143197" at="72,9,75,25">
+        <var name="fileWriter" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="26,0,30,0">
+        <var name="name" id="5792181515959143197" />
+        <var name="typeAct" id="5792181515959143197" />
+        <var name="typeNetwork" id="5792181515959143197" />
+        <var name="value" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="34,25,38,14" />
+      <scope id="5792181515959143197" at="54,18,58,14" />
+      <scope id="5792181515959143197" at="59,23,63,14" />
+      <scope id="5792181515959143197" at="16,42,23,59">
+        <var name="system" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="16,0,25,0">
+        <var name="args" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="69,58,78,5">
+        <var name="outputFile" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="69,0,80,0">
+        <var name="name" id="5792181515959143197" />
+        <var name="path" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="52,51,66,5" />
+      <scope id="5792181515959143197" at="52,0,68,0">
+        <var name="networkType" id="5792181515959143197" />
+      </scope>
+      <scope id="5792181515959143197" at="31,112,49,42" />
+      <scope id="5792181515959143197" at="31,0,51,0">
+        <var name="name" id="5792181515959143197" />
+        <var name="port" id="5792181515959143197" />
+        <var name="typeNetwork" id="5792181515959143197" />
+        <var name="typeSensor" id="5792181515959143197" />
+        <var name="value" id="5792181515959143197" />
+      </scope>
+      <unit id="5792181515959143197" at="9,0,81,0" name="jetbreins.mps.DSL.sandbox.ClimatConstrolSystem" />
+    </file>
+  </root>
+</debug-info>
+

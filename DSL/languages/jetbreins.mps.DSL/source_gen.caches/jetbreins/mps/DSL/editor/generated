@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-86w7f4pahv63qj8vdflp24t4z3u5ir0">
+  <files names="ActuatorType.java:ActuatorTypeReference_Editor.java:ActuatorTypeReference_EditorBuilder_a.java:ActuatorTypeReference_SubstituteMenu.java:ActuatorType_ComponentBuilder_a.java:ActuatorType_Editor.java:ActuatorType_EditorBuilder_a.java:Actuator_Editor.java:Actuator_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:IoTSystem_Editor.java:IoTSystem_EditorBuilder_a.java:NetworkReference_Editor.java:NetworkReference_EditorBuilder_a.java:NetworkReference_SubstituteMenu.java:Network_Editor.java:Network_EditorBuilder_a.java:SensorType.java:SensorType_ComponentBuilder_a.java:SensorType_Editor.java:SensorType_EditorBuilder_a.java:Sensor_Editor.java:Sensor_EditorBuilder_a.java:sensorTypeReference_Editor.java:sensorTypeReference_EditorBuilder_a.java:sensorTypeReference_SubstituteMenu.java" />
+</product>
+
